@@ -5,9 +5,9 @@
 .ipynb_checkpoints
 
 # Ignore docx file
-Supplementary_materials.docx
+/Supplementary_materials.docx
 
-Supplementary_Appendix.docx
+/Supplementary_Appendix.docx
 
 # Ignore files related to API keys
 .env

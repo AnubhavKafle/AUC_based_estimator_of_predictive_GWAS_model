@@ -1,2 +1,14 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore docx file
 Supplementary_materials.docx
+
 Supplementary_Appendix.docx
+
+# Ignore files related to API keys
+.env
+
+# Ignore SASS config files
+.sass-cache
+

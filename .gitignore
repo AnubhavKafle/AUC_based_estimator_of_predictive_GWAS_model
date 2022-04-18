@@ -1,6 +1,9 @@
 # Ignore Mac system files
 .DS_store
 
+# Ignore jupyter checkpoints
+.ipynb_checkpoints
+
 # Ignore docx file
 Supplementary_materials.docx
 

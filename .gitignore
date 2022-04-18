@@ -15,3 +15,5 @@
 # Ignore SASS config files
 .sass-cache
 
+# Git all commands
+/git.sh

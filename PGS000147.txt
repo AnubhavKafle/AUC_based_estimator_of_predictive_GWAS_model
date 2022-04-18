@@ -1,0 +1,31 @@
+### PGS CATALOG SCORING FILE - see www.pgscatalog.org/downloads/#dl_ftp for additional information
+## POLYGENIC SCORE (PGS) INFORMATION
+# PGS ID = PGS000147
+# Reported Trait = Colorectal cancer
+# Original Genome Build = NR
+# Number of Variants = 21
+## SOURCE INFORMATION
+# PGP ID = PGP000070
+# Citation = Ibáñez-Sanz G et al. Sci Rep (2017). doi:10.1038/srep43263
+rsID	chr_name	chr_position	effect_allele	effect_weight	weight_type	allelefrequency_effect	locus_name	variant_description	OR
+rs10752881	1	183004356	A	1	unweighted	0.76	KRT18P28 - LAMC1		1.07
+rs6691170	1	221872104	T	1	unweighted GRS	0.31	DUSP10 - QRSL1P2		1.06
+rs10936599	3	169774313	C	1	unweighted GRS	0.19	MYNN		1.04
+rs1321311	6	36655123	C	1	unweighted GRS	0.3			1.1
+rs7758229	6	160419220	T	1	unweighted GRS	0.67	SLC22A3		1.28
+rs16892766	8	116618444	C	1	unweighted GRS	0.39	LINC00536 - EIF3H		1.27
+rs6983267	8	127401060	G	1	unweighted GRS	0.82	CCAT2 - LOC101930033		1.27
+rs10795668	10	8659256	G	1	unweighted GRS	0.73	RNA5SP299 - LINC00709		1.15
+rs4948317	10	58811675	C	1	unweighted GRS	0.3	BICC1		1.1
+rs3802842	11	111300984	C	1	unweighted GRS	0.08	COLCA2 - COLCA1		1.11
+rs3824999	11	74634505	G	1	unweighted GRS	0.13	POLD3		1.08
+rs10879357	12	72020783	G	1	unweighted GRS	0.5	TPH2		1.25
+rs11169552	12	50761880	C	1	unweighted GRS	0.82	DIP2B - ATF1		1.09
+rs7315438	12	115453598	T	1	unweighted GRS	0.41	TBX3 - UBA52P7		1.11
+rs4444235	14	53944201	C	1	unweighted GRS	0.43	RPS3AP46 - MIR5580		1.11
+rs9929218	16	68787043	G	1	unweighted GRS	0.46	CDH1		1.1
+rs4939827	18	48927093	T	1	unweighted GRS	0.27	SMAD7		1.2
+rs10411210	19	33041394	C	1	unweighted GRS	0.31	RHPN2		1.15
+rs4925386	20	62345988	C	1	unweighted GRS	0.58	LAMA5		1.08
+rs961253	20	6423634	A	1	unweighted GRS	0.28	FGFR3P3 - CASC20		1.12
+rs5934683	X	9783434	C	1	unweighted GRS	0.57	GPR143 - SHROOM2	Dosage coded as {0, 0.5, 1}	1.07

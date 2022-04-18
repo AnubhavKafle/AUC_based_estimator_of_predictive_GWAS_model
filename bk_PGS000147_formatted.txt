@@ -1,0 +1,11 @@
+rsID	chr_name	chr_position	effect_allele	effect_weight	weight_type	MAF	locus_name	variant_description	OR	Model
+rs10752881	1	183004356	A	1	unweighted	0.76	KRT18P28 - LAMC1		1.07	additive
+rs6691170	1	221872104	T	1	unweighted GRS	0.31	DUSP10 - QRSL1P2		1.06	additive
+rs10936599	3	169774313	C	1	unweighted GRS	0.19	MYNN		1.04	additive
+rs1321311	6	36655123	C	1	unweighted GRS	0.3			1.1	additive
+rs7758229	6	160419220	T	1	unweighted GRS	0.67	SLC22A3		1.28	additive
+rs16892766	8	116618444	C	1	unweighted GRS	0.39	LINC00536 - EIF3H		1.27	recessive
+rs6983267	8	127401060	G	1	unweighted GRS	0.82	CCAT2 - LOC101930033		1.27	dominant
+rs10795668	10	8659256	G	1	unweighted GRS	0.73	RNA5SP299 - LINC00709		1.15	dominant
+rs4948317	10	58811675	C	1	unweighted GRS	0.3	BICC1		1.1	recessive
+rs3802842	11	111300984	C	1	unweighted GRS	0.08	COLCA2 - COLCA1		1.11	additive

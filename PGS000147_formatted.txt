@@ -1,0 +1,3 @@
+rsID	chr_name	chr_position	effect_allele	effect_weight	weight_type	MAF	locus_name	variant_description	OR	Model
+rs10752881	1	183004356	A	1	unweighted	0.76	KRT18P28 - LAMC1		1.07	additive
+rs7758229	6	160419220	T	1	unweighted GRS	0.67	SLC22A3		1.28	additive
